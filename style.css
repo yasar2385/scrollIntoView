@@ -4,13 +4,13 @@ h2 {
 }
 
 .container {
-  text-align: center;
+  /* text-align: center; */
 }
 .container ul {
   list-style: none;
 }
 .container ul li {
-  padding: 2rem;
+  padding: 1.5rem;
   font-size: 2rem;
 }
 .container ul li:nth-child(even) {
@@ -19,9 +19,9 @@ h2 {
 }
 .btn {
   box-sizing: border-box;
-  width: 100%;
-  padding: 3%;
-  font-size: 2rem;
+  /* width: 100%; */
+  padding: 1%;
+  /* font-size: 2rem; */
   background: #007bff;
   border-bottom: 2px solid #007bff;
   border-top-style: none;
